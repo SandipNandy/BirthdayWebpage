@@ -186,7 +186,7 @@ document.ontouchstart = evt => birthday.onClick(evt);(function loop(){
 
       }
       else{
-          result.innerHTML="But Sorry Sir/Madam, Your Birthday is available in our Database:-)";
+          result.innerHTML="But Sorry Sir/Madam, Your Birthday Date is not available in our Database:-)";
 
       }
 
